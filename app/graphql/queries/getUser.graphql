@@ -1,0 +1,10 @@
+query {
+  user(id: 5) {
+    name
+    email
+    posts {
+      title
+      body
+    }
+  }
+}
