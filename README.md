@@ -4,3 +4,4 @@
 
 * mutations
 
+* http://localhost:3000/graphiql
